@@ -76,7 +76,7 @@ Amnezia WireGuard Tools — это мощный инструмент для ра
 - [NiceGUI](https://github.com/zauberzeug/nicegui) - для создания интерфейса программы
 - [Cloudflare WARP WireGuard Client](https://github.com/ViRb3/cloudflare-warp-wireguard-client) - для генерации конфигураций Cloudflare WARP
 - [AmneziaWG for Windows](https://github.com/amnezia-vpn/amneziawg-windows-client) - для работы с конфигурациями Amnezia
-- [Hiddify-next](https://github.com/hiddify/hiddify-next) - для работы с конфигурациями прокси
+- [Hiddify-next](https://github.com/hiddify/hiddify-next) - для работы с конфигурациями json формата
 
 ## Лицензия
 
