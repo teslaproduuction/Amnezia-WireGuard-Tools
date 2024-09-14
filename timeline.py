@@ -30,7 +30,7 @@ def show_timeline():
                         ui.image('https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg').classes('w-12 h-12')
 
                     # Иконка GitHub
-                    with ui.link(target='https://github.com/your_github_link', new_tab=True).tooltip('Репозиторий проекта'):
+                    with ui.link(target='https://github.com/teslaproduuction/Amnezia-WireGuard-Tools', new_tab=True).tooltip('Репозиторий проекта'):
                         ui.image('https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png').classes('w-12 h-12')
 
                     # Иконка Amnezia
