@@ -18,9 +18,7 @@ Amnezia WireGuard Tools — это мощный инструмент для ра
 
 ## Как использовать
 
-**Веб версии:**
 
-[tehnoproekt.tech](https://tehnoproekt.tech:8000/) 
 
 **Скачивание скомпилированной версии:**
 
