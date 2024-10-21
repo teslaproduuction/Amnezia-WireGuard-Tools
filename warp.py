@@ -146,7 +146,7 @@ Address = {addresses['v4']}/24
 PublicKey = {peer['public_key']}
 AllowedIPs = 0.0.0.0/0
 AllowedIPs = ::/0
-Endpoint = 162.159.193.5:2408
+Endpoint = 188.114.97.171:7152
 """
 
     return wireguard_conf  # Return the configuration
